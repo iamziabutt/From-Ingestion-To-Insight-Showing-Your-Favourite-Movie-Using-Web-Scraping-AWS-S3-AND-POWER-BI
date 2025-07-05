@@ -1,4 +1,4 @@
-## From Ingestion to Insight: Data pipeline to show online streaming options of your favourite movie
+## From Ingestion to Insight: Data pipeline to show online streaming options for your favourite movie
 
 Ths project combines `web scraping` and `api call` approaches to ingest data from movie databases `imdb` and `watchmode` to show in `Microsoft Power BI` what online streaming platforms are showing `Top imdb movies` in the UK.
 
