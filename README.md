@@ -7,6 +7,7 @@ Ths project combines `web scraping` and `api call` approaches to ingest data fro
  1. What are the Top 250 imdb movies of all time based on users vote count
  2. What streaming platforms are showing a movie from the list in the UK and what price are these platform charging
 
+---
 
 ### 🛠️Plan:
 
@@ -16,6 +17,7 @@ Ths project combines `web scraping` and `api call` approaches to ingest data fro
  4. In the end, we will make a connection between `AWS S3` and `Power Bi` through creating a `presigned URL` in 3 and using it in Power BI `get data` option.
  5. After creating the dashboard, we will publish it to PowerBi service for sharing.
 
+---
 
  ### 🎯Resources required:
 
@@ -27,11 +29,12 @@ Ths project combines `web scraping` and `api call` approaches to ingest data fro
   - Power BI downloaded natively
   - Workspace setup in Power BI service for publishing and sharing
  ```
-
+---
  ### 🏗️ Project architecture:
 
  ![Reference Image](/resources/Diagram.png)
 
+---
  ### 📂Project structure:
 
  ```
@@ -58,6 +61,7 @@ Imdb-movies-project /
 |___
 
 ```
+---
 ###  🚀 Step by step implementation:
 
 **Step 1: ✅Extracting data from imdb database**
