@@ -1,0 +1,251 @@
+rank,title,release_year,duration,rate_type,star_rating,vote_count,transformed_title
+1, The Shawshank Redemption,1994,2h 22m,15,9.3, (3.1M),the shawshank redemption
+2, The Godfather,1972,2h 55m,15,9.2, (2.1M),the godfather
+3, The Dark Knight,2008,2h 32m,12A,9.0, (3M),the dark knight
+4, The Godfather Part II,1974,3h 22m,X,9.0, (1.4M),the godfather part ii
+5, 12 Angry Men,1957,1h 36m,U,9.0, (935K),12 angry men
+6, The Lord of the Rings: The Return of the King,2003,3h 21m,12A,9.0, (2.1M),the lord of the rings: the return of the king
+7, Schindler's List,1993,3h 15m,15,9.0, (1.5M),schindler's list
+8, Pulp Fiction,1994,2h 34m,18,8.8, (2.3M),pulp fiction
+9, The Lord of the Rings: The Fellowship of the Ring,2001,2h 58m,PG,8.9, (2.1M),the lord of the rings: the fellowship of the ring
+10," The Good, the Bad and the Ugly",1966,2h 28m,18,8.8, (860K),"the good, the bad and the ugly"
+11, Forrest Gump,1994,2h 22m,12,8.8, (2.4M),forrest gump
+12, The Lord of the Rings: The Two Towers,2002,2h 59m,12A,8.8, (1.9M),the lord of the rings: the two towers
+13, Fight Club,1999,2h 19m,15,8.8, (2.5M),fight club
+14, Inception,2010,2h 28m,12A,8.8, (2.7M),inception
+15, Star Wars: Episode V - The Empire Strikes Back,1980,2h 4m,U,8.7, (1.5M),star wars: episode v - the empire strikes back
+16, The Matrix,1999,2h 16m,15,8.7, (2.2M),the matrix
+17, GoodFellas,1990,2h 25m,18,8.7, (1.3M),goodfellas
+18, Interstellar,2014,2h 49m,12A,8.7, (2.4M),interstellar
+19, One Flew Over the Cuckoo's Nest,1975,2h 13m,X,8.7, (1.1M),one flew over the cuckoo's nest
+20, Seven,1995,2h 7m,18,8.6, (1.9M),seven
+21, It's a Wonderful Life,1946,2h 10m,U,8.6, (530K),it's a wonderful life
+22, The Silence of the Lambs,1991,1h 58m,18,8.6, (1.6M),the silence of the lambs
+23, Seven Samurai,1954,3h 27m,A,8.6, (387K),seven samurai
+24, Saving Private Ryan,1998,2h 49m,15,8.6, (1.6M),saving private ryan
+25, City of God,2002,2h 10m,18,8.6, (842K),city of god
+26, The Green Mile,1999,3h 9m,18,8.6, (1.5M),the green mile
+27, Life Is Beautiful,1997,1h 56m,PG,8.6, (783K),life is beautiful
+28, Terminator 2: Judgment Day,1991,2h 17m,15,8.6, (1.2M),terminator 2: judgment day
+29, Star Wars: Episode IV - A New Hope,1977,2h 1m,U,8.6, (1.5M),star wars: episode iv - a new hope
+30, Back to the Future,1985,1h 56m,PG,8.5, (1.4M),back to the future
+31, Spirited Away,2001,2h 4m,PG,8.6, (918K),spirited away
+32, The Pianist,2002,2h 30m,15,8.5, (973K),the pianist
+33, Gladiator,2000,2h 35m,15,8.5, (1.8M),gladiator
+34, Parasite,2019,2h 12m,15,8.5, (1.1M),parasite
+35, Psycho,1960,1h 49m,15,8.5, (757K),psycho
+36, The Lion King,1994,1h 28m,U,8.5, (1.2M),the lion king
+37, Grave of the Fireflies,1988,1h 28m,12A,8.5, (354K),grave of the fireflies
+38, The Departed,2006,2h 31m,18,8.5, (1.5M),the departed
+39, Whiplash,2014,1h 46m,15,8.5, (1.1M),whiplash
+40, Harakiri,1962,2h 13m,X,8.6, (81K),harakiri
+41, The Prestige,2006,2h 10m,12A,8.5, (1.5M),the prestige
+42, American History X,1998,1h 59m,18,8.5, (1.2M),american history x
+43, Leon,1994,1h 50m,18,8.5, (1.3M),leon
+44, Spider-Man: Across the Spider-Verse,2023,2h 20m,PG,8.5, (464K),spider-man: across the spider-verse
+45, Casablanca,1942,1h 42m,U,8.5, (635K),casablanca
+46, The Usual Suspects,1995,1h 46m,18,8.5, (1.2M),the usual suspects
+47, Cinema Paradiso,1988,2h 54m,PG,8.5, (303K),cinema paradiso
+48, Untouchable,2011,1h 52m,15,8.5, (985K),untouchable
+49, Alien,1979,1h 57m,X,8.5, (1M),alien
+50, Modern Times,1936,1h 27m,U,8.5, (275K),modern times
+51, Rear Window,1954,1h 52m,A,8.5, (550K),rear window
+52, Once Upon a Time in the West,1968,2h 46m,12,8.5, (371K),once upon a time in the west
+53, Django Unchained,2012,2h 45m,18,8.5, (1.8M),django unchained
+54, City Lights,1931,1h 27m,U,8.5, (208K),city lights
+55, Apocalypse Now,1979,2h 27m,X,8.4, (746K),apocalypse now
+56, WALL·E,2008,1h 38m,U,8.4, (1.3M),wall·e
+57, Dune: Part Two,2024,2h 46m,12A,8.5, (645K),dune: part two
+58, Memento,2000,1h 53m,15,8.4, (1.4M),memento
+59, Raiders of the Lost Ark,1981,1h 55m,A,8.4, (1.1M),raiders of the lost ark
+60, The Lives of Others,2006,2h 17m,15,8.4, (430K),the lives of others
+61, Avengers: Infinity War,2018,2h 29m,12A,8.4, (1.3M),avengers: infinity war
+62, Sunset Blvd.,1950,1h 50m,PG,8.4, (250K),sunset blvd.
+63, Spider-Man: Into the Spider-Verse,2018,1h 57m,PG,8.4, (738K),spider-man: into the spider-verse
+64, Witness for the Prosecution,1957,1h 56m,U,8.4, (151K),witness for the prosecution
+65, Paths of Glory,1957,1h 28m,PG,8.4, (227K),paths of glory
+66, The Shining,1980,2h 26m,X,8.4, (1.2M),the shining
+67, The Great Dictator,1940,2h 5m,U,8.4, (250K),the great dictator
+68, 12th Fail,2023,2h 27m,12A,8.7, (151K),12th fail
+69, Inglourious Basterds,2009,2h 33m,18,8.4, (1.7M),inglourious basterds
+70, Aliens,1986,2h 17m,18,8.4, (813K),aliens
+71, The Dark Knight Rises,2012,2h 44m,12A,8.4, (1.9M),the dark knight rises
+72, Coco,2017,1h 45m,PG,8.4, (657K),coco
+73, Amadeus,1984,2h 40m,PG,8.4, (451K),amadeus
+74, Toy Story,1995,1h 21m,PG,8.3, (1.1M),toy story
+75, Avengers: Endgame,2019,3h 1m,12A,8.4, (1.4M),avengers: endgame
+76, Good Will Hunting,1997,2h 6m,15,8.3, (1.1M),good will hunting
+77, Oldboy,2003,2h,18,8.3, (684K),oldboy
+78, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1h 35m,A,8.3, (540K),dr. strangelove or: how i learned to stop worrying and love the bomb
+79, Das Boot,1981,2h 29m,AA,8.4, (280K),das boot
+80, Braveheart,1995,2h 58m,15,8.3, (1.1M),braveheart
+81, High and Low,1963,2h 23m,12,8.4, (61K),high and low
+82, American Beauty,1999,2h 2m,18,8.3, (1.3M),american beauty
+83, Princess Mononoke,1997,2h 13m,PG,8.3, (463K),princess mononoke
+84, Your Name.,2016,1h 46m,12A,8.4, (362K),your name.
+85, 3 Idiots,2009,2h 50m,12A,8.4, (462K),3 idiots
+86, Joker,2019,2h 2m,15,8.3, (1.6M),joker
+87, Capernaum,2018,2h 6m,15,8.4, (117K),capernaum
+88, Once Upon a Time in America,1984,3h 49m,18,8.3, (397K),once upon a time in america
+89, Singin' in the Rain,1952,1h 43m,U,8.3, (274K),singin' in the rain
+90, Come and See,1985,2h 22m,15,8.3, (114K),come and see
+91, Requiem for a Dream,2000,1h 42m,18,8.3, (944K),requiem for a dream
+92, Star Wars: Episode VI - Return of the Jedi,1983,2h 11m,U,8.3, (1.2M),star wars: episode vi - return of the jedi
+93, Toy Story 3,2010,1h 43m,U,8.3, (937K),toy story 3
+94, Ikiru,1952,2h 23m,A,8.3, (97K),ikiru
+95, The Hunt,2012,1h 55m,15,8.3, (391K),the hunt
+96, Eternal Sunshine of the Spotless Mind,2004,1h 48m,15,8.3, (1.1M),eternal sunshine of the spotless mind
+97, Incendies,2010,2h 11m,15,8.3, (231K),incendies
+98, 2001: A Space Odyssey,1968,2h 29m,U,8.3, (757K),2001: a space odyssey
+99, The Apartment,1960,2h 5m,A,8.3, (210K),the apartment
+100, Reservoir Dogs,1992,1h 39m,18,8.3, (1.1M),reservoir dogs
+101, Lawrence of Arabia,1962,3h 47m,PG,8.3, (331K),lawrence of arabia
+102, Scarface,1983,2h 50m,18,8.3, (973K),scarface
+103, Double Indemnity,1944,1h 47m,A,8.3, (176K),double indemnity
+104, Heat,1995,2h 50m,15,8.3, (764K),heat
+105, North by Northwest,1959,2h 16m,A,8.3, (362K),north by northwest
+106, Up,2009,1h 36m,U,8.3, (1.2M),up
+107, Citizen Kane,1941,1h 59m,A,8.3, (484K),citizen kane
+108, M,1931,1h 57m,A,8.3, (178K),m
+109, The Chaos Class Failed the Class,1975,1h 35m,,8.7, (27K),the chaos class failed the class
+110, Full Metal Jacket,1987,1h 56m,18,8.2, (826K),full metal jacket
+111, Vertigo,1958,2h 8m,A,8.2, (447K),vertigo
+112, Amélie,2001,2h 2m,15,8.3, (821K),amélie
+113, Like Stars on Earth,2007,2h 42m,PG,8.3, (220K),like stars on earth
+114, A Separation,2011,2h 3m,PG,8.3, (271K),a separation
+115, To Kill a Mockingbird,1962,2h 9m,A,8.3, (345K),to kill a mockingbird
+116, Die Hard,1988,2h 12m,18,8.2, (994K),die hard
+117, A Clockwork Orange,1971,2h 16m,X,8.2, (915K),a clockwork orange
+118, Indiana Jones and the Last Crusade,1989,2h 7m,PG,8.2, (842K),indiana jones and the last crusade
+119, The Sting,1973,2h 9m,A,8.2, (292K),the sting
+120, Oppenheimer,2023,3h,15,8.3, (906K),oppenheimer
+121, Metropolis,1927,2h 33m,A,8.3, (196K),metropolis
+122, Snatch,2000,1h 44m,18,8.2, (950K),snatch
+123, 1917,2019,1h 59m,15,8.2, (734K),1917
+124, L.A. Confidential,1997,2h 18m,18,8.2, (644K),l.a. confidential
+125, Bicycle Thieves,1948,1h 29m,U,8.2, (187K),bicycle thieves
+126, Downfall,2004,2h 36m,15,8.2, (390K),downfall
+127, Dangal,2016,2h 41m,PG,8.3, (228K),dangal
+128, The Wolf of Wall Street,2013,3h,18,8.2, (1.7M),the wolf of wall street
+129, Hamilton,2020,2h 40m,12,8.3, (129K),hamilton
+130, Taxi Driver,1976,1h 54m,18,8.2, (985K),taxi driver
+131, Green Book,2018,2h 10m,12A,8.2, (642K),green book
+132, Batman Begins,2005,2h 20m,12A,8.2, (1.7M),batman begins
+133, The Truman Show,1998,1h 43m,PG,8.2, (1.3M),the truman show
+134, For a Few Dollars More,1965,2h 12m,15,8.2, (290K),for a few dollars more
+135, Judgment at Nuremberg,1961,2h 59m,A,8.3, (92K),judgment at nuremberg
+136, Some Like It Hot,1959,2h 1m,A,8.2, (297K),some like it hot
+137, Shutter Island,2010,2h 18m,15,8.2, (1.6M),shutter island
+138, The Kid,1921,1h 8m,U,8.2, (142K),the kid
+139, The Father,2020,1h 37m,12A,8.2, (216K),the father
+140, Jurassic Park,1993,2h 7m,PG,8.2, (1.1M),jurassic park
+141, All About Eve,1950,2h 18m,A,8.2, (146K),all about eve
+142, There Will Be Blood,2007,2h 38m,12A,8.2, (675K),there will be blood
+143, The Sixth Sense,1999,1h 47m,15,8.2, (1.1M),the sixth sense
+144, Ran,1985,2h 40m,15,8.2, (145K),ran
+145, Casino,1995,2h 58m,18,8.2, (596K),casino
+146, Top Gun: Maverick,2022,2h 10m,12A,8.2, (787K),top gun: maverick
+147, No Country for Old Men,2007,2h 2m,15,8.2, (1.1M),no country for old men
+148, The Thing,1982,1h 49m,X,8.2, (502K),the thing
+149, Unforgiven,1992,2h 10m,15,8.2, (457K),unforgiven
+150, Pan's Labyrinth,2006,1h 58m,15,8.2, (728K),pan's labyrinth
+151, Kill Bill: Vol. 1,2003,1h 51m,18,8.2, (1.3M),kill bill: vol. 1
+152, A Beautiful Mind,2001,2h 15m,12,8.2, (1M),a beautiful mind
+153, Prisoners,2013,2h 33m,15,8.2, (880K),prisoners
+154, The Treasure of the Sierra Madre,1948,2h 6m,A,8.2, (138K),the treasure of the sierra madre
+155, Yojimbo,1961,1h 50m,A,8.2, (139K),yojimbo
+156, Finding Nemo,2003,1h 40m,U,8.2, (1.2M),finding nemo
+157, Howl's Moving Castle,2004,1h 59m,U,8.2, (487K),howl's moving castle
+158, The Great Escape,1963,2h 52m,PG,8.2, (270K),the great escape
+159, Monty Python and the Holy Grail,1975,1h 31m,12A,8.2, (590K),monty python and the holy grail
+160, The Elephant Man,1980,2h 4m,AA,8.2, (274K),the elephant man
+161, Dial M for Murder,1954,1h 45m,PG,8.2, (199K),dial m for murder
+162, Klaus,2019,1h 36m,PG,8.2, (216K),klaus
+163, Gone with the Wind,1939,3h 58m,PG,8.2, (348K),gone with the wind
+164, Chinatown,1974,2h 10m,X,8.1, (367K),chinatown
+165, The Secret in Their Eyes,2009,2h 9m,18,8.2, (234K),the secret in their eyes
+166, Rashomon,1950,1h 28m,X,8.2, (191K),rashomon
+167," Lock, Stock and Two Smoking Barrels",1998,1h 47m,18,8.1, (637K),"lock, stock and two smoking barrels"
+168, V for Vendetta,2005,2h 12m,15,8.1, (1.2M),v for vendetta
+169, Inside Out,2015,1h 35m,U,8.1, (874K),inside out
+170," Three Billboards Outside Ebbing, Missouri",2017,1h 55m,15,8.1, (586K),"three billboards outside ebbing, missouri"
+171, Catch Me If You Can,2002,2h 21m,12A,8.1, (1.2M),catch me if you can
+172, Trainspotting,1996,1h 33m,18,8.1, (753K),trainspotting
+173, The Bridge on the River Kwai,1957,2h 41m,U,8.1, (243K),the bridge on the river kwai
+174, Raging Bull,1980,2h 9m,X,8.1, (398K),raging bull
+175, The Wild Robot,2024,1h 42m,U,8.2, (184K),the wild robot
+176, Fargo,1996,1h 38m,18,8.1, (760K),fargo
+177, Harry Potter and the Deathly Hallows: Part 2,2011,2h 10m,12A,8.1, (1M),harry potter and the deathly hallows: part 2
+178, Warrior,2011,2h 20m,12A,8.1, (517K),warrior
+179, Gran Torino,2008,1h 56m,15,8.1, (843K),gran torino
+180, Million Dollar Baby,2004,2h 12m,12A,8.1, (749K),million dollar baby
+181, Ben-Hur,1959,3h 32m,A,8.1, (265K),ben-hur
+182, Mad Max: Fury Road,2015,2h,15,8.1, (1.2M),mad max: fury road
+183, My Neighbour Totoro,1988,1h 26m,U,8.1, (411K),my neighbour totoro
+184, Dead Poets Society,1989,2h 8m,PG,8.1, (596K),dead poets society
+185, Barry Lyndon,1975,3h 5m,A,8.1, (195K),barry lyndon
+186, Children of Heaven,1997,1h 29m,PG,8.2, (87K),children of heaven
+187, Spider-Man: No Way Home,2021,2h 28m,12A,8.2, (960K),spider-man: no way home
+188, Hacksaw Ridge,2016,2h 19m,15,8.1, (642K),hacksaw ridge
+189, The Grand Budapest Hotel,2014,1h 39m,15,8.1, (932K),the grand budapest hotel
+190, 12 Years a Slave,2013,2h 14m,15,8.1, (768K),12 years a slave
+191, Before Sunrise,1995,1h 41m,15,8.1, (362K),before sunrise
+192, Blade Runner,1982,1h 57m,AA,8.1, (857K),blade runner
+193, Memories of Murder,2003,2h 11m,15,8.1, (245K),memories of murder
+194, Gone Girl,2014,2h 29m,18,8.1, (1.1M),gone girl
+195, Ratatouille,2007,1h 51m,U,8.1, (893K),ratatouille
+196, How to Train Your Dragon,2010,1h 38m,PG,8.1, (855K),how to train your dragon
+197," Monsters, Inc.",2001,1h 32m,U,8.1, (1M),"monsters, inc."
+198, In the Name of the Father,1993,2h 13m,15,8.1, (197K),in the name of the father
+199, Wild Tales,2014,2h 2m,15,8.1, (230K),wild tales
+200, The Gold Rush,1925,1h 35m,U,8.1, (125K),the gold rush
+201, Jaws,1975,2h 4m,A,8.1, (701K),jaws
+202, Sherlock Jr.,1924,45m,U,8.2, (63K),sherlock jr.
+203, Le Mans '66,2019,2h 32m,12A,8.1, (530K),le mans '66
+204, Mary and Max,2009,1h 32m,12A,8.1, (197K),mary and max
+205, The Deer Hunter,1978,3h 3m,X,8.1, (377K),the deer hunter
+206, The Wages of Fear,1953,2h 36m,12A,8.1, (71K),the wages of fear
+207, The General,1926,1h 18m,U,8.1, (103K),the general
+208, Mr. Smith Goes to Washington,1939,2h 9m,U,8.1, (127K),mr. smith goes to washington
+209, On the Waterfront,1954,1h 48m,A,8.1, (173K),on the waterfront
+210, Logan,2017,2h 17m,15,8.1, (895K),logan
+211, Wild Strawberries,1957,1h 32m,A,8.1, (121K),wild strawberries
+212, Rocky,1976,2h,A,8.1, (664K),rocky
+213, The Third Man,1949,1h 44m,A,8.1, (191K),the third man
+214, Tokyo Story,1953,2h 17m,U,8.1, (75K),tokyo story
+215, Spotlight,2015,2h 9m,15,8.1, (521K),spotlight
+216, The Big Lebowski,1998,1h 57m,18,8.1, (894K),the big lebowski
+217, The Terminator,1984,1h 47m,18,8.1, (970K),the terminator
+218, Maharaja,2024,2h 21m,15,8.4, (71K),maharaja
+219, Pirates of the Caribbean: The Curse of the Black Pearl,2003,2h 23m,12A,8.1, (1.3M),pirates of the caribbean: the curse of the black pearl
+220, The Seventh Seal,1957,1h 36m,X,8.1, (210K),the seventh seal
+221, La haine,1995,1h 38m,15,8.1, (214K),la haine
+222, Room,2015,1h 58m,15,8.1, (470K),room
+223, Jai Bhim,2021,2h 44m,Not Rated,8.6, (227K),jai bhim
+224, Hotel Rwanda,2004,2h 1m,12A,8.1, (385K),hotel rwanda
+225, Platoon,1986,2h,15,8.1, (458K),platoon
+226, The Best Years of Our Lives,1946,2h 50m,U,8.1, (75K),the best years of our lives
+227, Before Sunset,2004,1h 20m,15,8.1, (304K),before sunset
+228, The Exorcist,1973,2h 2m,X,8.1, (481K),the exorcist
+229, The Sound of Music,1965,2h 52m,U,8.1, (278K),the sound of music
+230, The Incredibles,2004,1h 55m,U,8.0, (861K),the incredibles
+231, The Wizard of Oz,1939,1h 42m,A,8.1, (453K),the wizard of oz
+232, Hachi: A Dog's Tale,2009,1h 33m,U,8.1, (330K),hachi: a dog's tale
+233, The Passion of Joan of Arc,1928,1h 50m,A,8.1, (66K),the passion of joan of arc
+234, Rush,2013,2h 3m,15,8.1, (538K),rush
+235, Stand by Me,1986,1h 29m,15,8.1, (467K),stand by me
+236, My Father and My Son,2005,1h 52m,PG,8.2, (98K),my father and my son
+237, The Iron Giant,1999,1h 26m,U,8.1, (247K),the iron giant
+238, A Silent Voice,2016,2h 10m,12A,8.1, (123K),a silent voice
+239, Network,1976,2h 1m,AA,8.1, (180K),network
+240, The Handmaiden,2016,2h 25m,18,8.1, (190K),the handmaiden
+241, The Battle of Algiers,1966,2h 1m,X,8.1, (72K),the battle of algiers
+242, To Be or Not to Be,1942,1h 39m,U,8.1, (48K),to be or not to be
+243, The Grapes of Wrath,1940,2h 9m,A,8.1, (106K),the grapes of wrath
+244, Into the Wild,2007,2h 28m,15,8.0, (682K),into the wild
+245, Groundhog Day,1993,1h 41m,PG,8.0, (720K),groundhog day
+246, The Help,2011,2h 26m,12A,8.1, (515K),the help
+247, I'm Still Here,2024,2h 17m,15,8.2, (114K),i'm still here
+248, Gangs of Wasseypur,2012,5h 21m,18,8.2, (109K),gangs of wasseypur
+249, Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,1h 57m,15,8.2, (85K),demon slayer: kimetsu no yaiba - the movie: mugen train
+250, Andhadhun,2018,2h 19m,12A,8.2, (110K),andhadhun
